@@ -16,7 +16,7 @@ global.author = "By: 𝙎𝙊𝙈𝘽𝙍𝙀 𝘾𝙃𝙄𝙆𝙐 𝘿𝘼𝙀�
 global.OwnerName = "𝙎𝙊𝙈𝘽𝙍𝙀 𝘿𝘼𝙀𝙈𝙊𝙉"
 global.BotSourceCode = "https://github.com/Ayush-pandey-u/Chiku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8"
-global.sessionName = "session"
+global.sessionName = "WkNMNW5aaWU="
 
 // Prefix //
 // 🎗don't change the prefix if you can change the prefix may be bot doesn't work properly//
