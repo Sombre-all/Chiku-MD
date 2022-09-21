@@ -7,9 +7,9 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['2250596531751']
-global.OwnerNumber = ['2250596531751']
-global.ownertag = ['2250596531751']
+global.Owner = ['22596531751']
+global.OwnerNumber = ['22596531751']
+global.ownertag = ['22596531751']
 global.BotName = "𝙎𝙊𝙈𝘽𝙍𝙀 𝘾𝙃𝙄𝙆𝙐"
 global.packname = "𝙎𝙊𝙈𝘽𝙍𝙀 ♣ 𝘿𝘼𝙀𝙈𝙊𝙉🪄"
 global.author = "By: 𝙎𝙊𝙈𝘽𝙍𝙀 𝘾𝙃𝙄𝙆𝙐 𝘿𝘼𝙀𝙈𝙊𝙉"
